@@ -1,0 +1,111 @@
+body{
+	background-image: url(fondo.jpg);
+}
+.t{
+	position: absolute;
+	top: 2%;
+	font-size: 760%;
+	font-family: titulo2;
+	left: 48.5%;
+	z-index: 2;
+	color: #D7BDE2;
+	-webkit-text-stroke: 2px black;
+ 	color: #FAC983; 
+}
+
+.tt{
+	position: absolute;
+	top: 18%;
+	font-size: 460%;
+	font-family: titulo;
+	left: 35%;
+	z-index: 2;
+	color: #000000;
+	-webkit-text-stroke: 2px black;
+ 	color: #FAC983; 
+}
+
+.img1{
+	position: absolute;
+	top: 25%;
+	width: 45%;
+	height: 68%;
+	left: 3%;
+	background-color: #ffffff;
+	border-style: double;
+	color: #D7BDE2;
+	border-width: 10px;
+}
+.img2{
+	position: absolute;
+	top: 99%;
+	width: 45%;
+	height: 68%;
+	left: 3%;
+	background-color: #ffffff;
+	border-style: double;
+	color: #A2EDFA;
+	border-width: 10px;
+}
+.img3{
+	position: absolute;
+	top: 173%;
+	width: 45%;
+	height: 68%;
+	left: 3%;
+	background-color: #ffffff;
+	border-style: double;
+	color: #C1FAA2;
+	border-width: 10px;
+}
+.img4{
+	position: absolute;
+	top: 246%;
+	width: 45%;
+	height: 68%;
+	left: 26%;
+	background-color: #ffffff;
+	border-style: double;
+	color: #FADEA2;
+	border-width: 10px;
+}
+
+.img5{
+	position: absolute;
+	top: 319%;
+	width: 45%;
+	height: 68%;
+	left: 3%;
+	background-color: #ffffff;
+	border-style: double;
+	color: #E9A2FA ;
+	border-width: 10px;
+}
+.video{
+	position: absolute;
+	top: 319%;
+	width: 45%;
+	height: 68%;
+	left: 52%;
+}
+
+.img6{
+	position: absolute;
+	top: 393%;
+	width: 45%;
+	height: 68%;
+	left:  27%;
+	background-color: #ffffff;
+	border-style: double;
+	color: #FAA2A2;
+	border-width: 10px;
+}
+@font-face{
+	font-family: titulo2;
+	src: url(titulo2.otf);
+} 
+
+@font-face{
+	font-family: titulo;
+	src: url(titulo.ttf);
+}
